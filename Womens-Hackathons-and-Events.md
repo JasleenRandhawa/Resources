@@ -18,4 +18,14 @@ tech. Contributions welcome! Create a PR or contact
 
 ## November 2019
 
-[She's Coding (Amsterdam) Winter Code-a-thon](https://www.meetup.com/shescoding-amsterdam/events/265645848/) (Codaisseur Academy): November 2-January (TBD)
+* [She's Coding (Amsterdam) Winter Code-a-thon](https://www.meetup.com/shescoding-amsterdam/events/265645848/) (Codaisseur Academy): November 2-January (TBD)
+
+## February 2020
+
+* [SheHACKS 2020](https://www.eventbrite.sg/e/shehacks-2020-singapore-hackathon-for-girls-tickets-83761297295) (Singapore Hackathon for Girls): February 15
+* [Women Hack](https://womenhack.com/events/)(Zurich): February 20
+* [Superposition IV](https://superposition.tech/) (San Francisco Bay Area): February 29-March 1
+
+## March 2020
+
+* [AthenaHacks](https://www.athenahacks.com/) (University of Southern California): March 7-8
